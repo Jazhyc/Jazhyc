@@ -16,4 +16,5 @@ I only have a few repositories related to Game Development but I hope to add a l
 ## Profile Illustrations
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JazHyc&exclude_repo=Yet-Another-FPS-Platformer)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JazHyc)](https://github.com/anuraghazra/github-readme-stats)
 
