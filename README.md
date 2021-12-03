@@ -3,7 +3,6 @@
 ## Profile Statistics
 
 ![Discord Tag](https://img.shields.io/badge/Discord%20Tag-JazHyc%230232-orange)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jazhyc.jazhyc&right_color=orange)
 ![Last Edit](https://img.shields.io/github/last-commit/JazHyc/JazHyc?color=orange)
 ![Skills](https://img.shields.io/badge/Languages%20Used-Python%2C%20C%2C%20Lua-orange)
 
