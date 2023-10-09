@@ -12,6 +12,12 @@ Hello there! I'm Jeremias Ferrao, an aspiring research scientist currently study
     <a href="https://discordapp.com/users/578561806172291094" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/> </a>
 </p>
 
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; gap: 16px">
+        <a href="https://www.linkedin.com/in/jeremias-lino-ferrao-0bb6121b4/" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="40" height="40"/> </a>
+    <a href="https://discordapp.com/users/578561806172291094" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/> </a>
+</div></div>
+
 ## My Work and Interests 💼
 
 My current portfolio includes a wide assortment of projects, ranging from a [simple yet passionate 2D game](https://github.com/Jazhyc/A-Hero-s-Symphony-Source-Code) to a [complex machine learning model](https://github.com/Jazhyc/ECG-Classification) that can theoretically diagnose heart disease from ECG data. I'm currently interested in exploring graph neural networks to model relations in graph data, as well as the seemingly infinite potential of modern neural network architectures like the Transformer.
