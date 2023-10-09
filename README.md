@@ -31,6 +31,6 @@ My current portfolio includes a wide assortment of projects, ranging from a [sim
 
 <p align="center">
     <a href="https://github.com/Jazhyc">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JazHyc&card_height=300&card_width=300&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JazHyc&card_height=300&card_width=300&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats" />
     </a>
 </p>
