@@ -7,7 +7,7 @@ Hello there! I'm Jeremias Ferrao, an aspiring research scientist currently study
 
 ## Contact Me 📫
 
-<p align="center">
+<p align="center" style="gap: 10px;">
     <a href="https://www.linkedin.com/in/jeremias-lino-ferrao-0bb6121b4/" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="40" height="40"/> </a>
     <a href="https://discordapp.com/users/578561806172291094" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" width="40" height="40"/> </a>
 </p>
