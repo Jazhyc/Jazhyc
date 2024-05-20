@@ -14,7 +14,7 @@ Hello there! I'm Jeremias Ferrao, an aspiring research scientist currently study
 
 ## My Work and Interests 💼
 
-My current portfolio includes a wide assortment of projects, ranging from a [simple yet passionate 2D game](https://github.com/Jazhyc/A-Hero-s-Symphony-Source-Code) to a [complex machine learning model](https://github.com/Jazhyc/ECG-Classification) that can theoretically diagnose heart disease from ECG data. I'm currently exploring graph neural networks to model complex relations, as well as the seemingly infinite potential of modern neural network architectures like the Transformer.
+My current portfolio includes a wide assortment of projects, ranging from a [simple yet passionate 2D game](https://github.com/Jazhyc/A-Hero-s-Symphony-Source-Code) to a [complex machine learning model](https://github.com/Jazhyc/ECG-Classification) that can theoretically diagnose heart disease from ECG data. I'm currently exploring reinforcement learning using World Model based algorithms, as well as the seemingly infinite potential of modern neural network architectures like the Transformer.
 
 ## Languages and Tools 🛠️
 
